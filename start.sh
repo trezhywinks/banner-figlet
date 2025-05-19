@@ -1,4 +1,6 @@
 #!/bin/bash
 
 # command
-npm start
+echo -e "[-] Starting the script..."
+sleep 0.75
+node banner/banner.js
