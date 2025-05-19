@@ -1,4 +1,6 @@
 # Banner - Figlet font: small
+- banner ascii - hacker
+- https://manytools.org/hacker-tools/ascii-banner/
 
 ```ts
 // npm install figlet or git clone  https... && npm install .
